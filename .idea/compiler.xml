@@ -10,8 +10,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="algorithm-demo" target="1.5" />
-      <module name="algorithm-demo-core" target="1.5" />
+      <module name="algorithm-demo" target="1.8" />
+      <module name="algorithm-demo-core" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

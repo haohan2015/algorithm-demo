@@ -1,5 +1,9 @@
 package com.algorithm;
 
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  * @author admin
  * @Description: 两数之和
@@ -23,8 +27,60 @@ package com.algorithm;
  */
 public class TwoNumSum {
 
-    public static int[] twoNumSum(int sumArray[], int target){
+    public static int[] twoNumSum(int[] nums, int target){
+        for (int i = 0; i < nums.length; i++) {
+            int secondNum = target - nums[i];
+            for (int j = i + 1; j < nums.length; j++) {
+                if(nums[j] == secondNum){
+                    return new int[]{i,j};
+                }
+            }
+        }
         return null;
+    }
+
+    public static int[] twoNumSum1(int[] nums, int target){
+        Map<String,Integer> stringMap = new HashMap<String,Integer>();
+        for (int i = 0; i < nums.length; i++) {
+            stringMap.put(String.valueOf(nums[i]),i);
+        }
+
+        for (int i = 0; i < nums.length; i++) {
+            int remainNum = target - nums[i];
+            if(stringMap.containsKey(String.valueOf(remainNum)) && stringMap.get(String.valueOf(remainNum)) != i){
+                return new int[]{i,stringMap.get(String.valueOf(remainNum))};
+            }
+        }
+        return null;
+    }
+
+    public static int[] twoNumSum3(int[] nums, int target){
+        Map<String,Integer> stringMap = new HashMap<String,Integer>();
+        for (int i = 0; i < nums.length; i++) {
+            int remainNum = target - nums[i];
+            if(stringMap.containsKey(String.valueOf(remainNum))){
+                return new int[]{stringMap.get(String.valueOf(remainNum)),i};
+            }else{
+                stringMap.put(String.valueOf(nums[i]),i);
+            }
+        }
+
+        return null;
+    }
+
+    public static void main(String[] args) {
+        int[] sumArray = new int[]{3,2,4};
+        int target = 6;
+        int[] resultArray = twoNumSum3(sumArray,target);
+        System.out.print("[");
+        for (int i = 0; i < resultArray.length; i++) {
+            System.out.print(","+resultArray[i]);
+        }
+        System.out.print("]");
+
+        System.out.println("args = [" + Integer.toBinaryString(3) + "]");
+        System.out.println("args = [" + Integer.toBinaryString(-3) + "]");
+        System.out.println(0b011);
     }
 
 }
