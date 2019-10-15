@@ -74,16 +74,31 @@ public class SameTree {
         return stringBuilder.toString();
     }
 
+    public static boolean isSameTree1(TreeNode p, TreeNode q) {
+        if(p == null && q== null){
+            return true;
+        }else if(p != null && q != null && p.val == q.val){
+            return isSameTree1(p.left,q.left) && isSameTree1(p.right,q.right);
+        }else{
+            return false;
+        }
+    }
+
     public static void main(String[] args) {
 
-        TreeNode p1 = new TreeNode(1);
+        TreeNode p1 = new TreeNode(4);
         TreeNode p2 = new TreeNode(1);
-        p1.left = p2;
-        TreeNode q1 = new TreeNode(1);
-        TreeNode q2 = new TreeNode(1);
-        q1.right = q2;
+        p1.right = p2;
+        TreeNode p3 = new TreeNode(2);
+        p2.left = p3;
 
-        System.out.println("args = [" + isSameTree(p1,q1) + "]");
+        TreeNode q1 = new TreeNode(1);
+        TreeNode q2 = new TreeNode(4);
+        q1.left = q2;
+        TreeNode q3 = new TreeNode(2);
+        q2.right = q3;
+
+        System.out.println("args = [" + isSameTree1(p1,q1) + "]");
 
     }
 
