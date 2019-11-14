@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f306098-1206-45ec-8bd5-627fda41d2a5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/BalanceBinaryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/TransferArray2BinarySearchTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm-demo-core/target/classes/com/algorithm/ArrayDeleteRepetition.class" afterPath="$PROJECT_DIR$/algorithm-demo-core/target/classes/com/algorithm/ArrayDeleteRepetition.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm-demo-core/target/classes/com/algorithm/IntegerOverturn.class" afterPath="$PROJECT_DIR$/algorithm-demo-core/target/classes/com/algorithm/IntegerOverturn.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm-demo-core/target/classes/com/algorithm/ListNode.class" afterPath="$PROJECT_DIR$/algorithm-demo-core/target/classes/com/algorithm/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm-demo-core/target/classes/com/algorithm/LongestCommonPrefix.class" afterPath="$PROJECT_DIR$/algorithm-demo-core/target/classes/com/algorithm/LongestCommonPrefix.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm-demo-core/target/classes/com/algorithm/Median.class" afterPath="$PROJECT_DIR$/algorithm-demo-core/target/classes/com/algorithm/Median.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm-demo-core/target/classes/com/algorithm/Palindrome.class" afterPath="$PROJECT_DIR$/algorithm-demo-core/target/classes/com/algorithm/Palindrome.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm-demo-core/target/classes/com/algorithm/Solution.class" afterPath="$PROJECT_DIR$/algorithm-demo-core/target/classes/com/algorithm/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm-demo-core/target/classes/com/algorithm/SortList.class" afterPath="$PROJECT_DIR$/algorithm-demo-core/target/classes/com/algorithm/SortList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm-demo-core/target/classes/com/algorithm/TwoNumSum.class" afterPath="$PROJECT_DIR$/algorithm-demo-core/target/classes/com/algorithm/TwoNumSum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm-demo-core/target/classes/com/algorithm/ValidBrackets.class" afterPath="$PROJECT_DIR$/algorithm-demo-core/target/classes/com/algorithm/ValidBrackets.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/BinaryTreeMinDepth.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm-demo-core/algorithm-demo-core.iml" afterPath="$PROJECT_DIR$/algorithm-demo-core/algorithm-demo-core.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/MergeSortList.java" afterPath="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/MergeSortList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/RemoveItem.java" afterPath="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/RemoveItem.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/Solution.java" afterPath="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/SumOne.java" afterPath="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/SumOne.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/TwoNumSum.java" afterPath="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/TwoNumSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm-demo.iml" afterPath="$PROJECT_DIR$/algorithm-demo.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,7 +22,18 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="BinaryTreeMinDepth.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/BinaryTreeMinDepth.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="49" column="58" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="49" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -106,6 +98,7 @@
         <option value="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/SumOne.java" />
         <option value="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/Solution.java" />
         <option value="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/BalanceBinaryTree.java" />
+        <option value="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/BinaryTreeMinDepth.java" />
       </list>
     </option>
   </component>
@@ -865,7 +858,7 @@
       <workItem from="1572587392154" duration="46000" />
       <workItem from="1572587686437" duration="57000" />
       <workItem from="1573124679918" duration="3610000" />
-      <workItem from="1573723313518" duration="22000" />
+      <workItem from="1573723313518" duration="657000" />
     </task>
     <task id="LOCAL-00001" summary="两数之和">
       <created>1565079953162</created>
@@ -1028,11 +1021,18 @@
       <option name="project" value="LOCAL" />
       <updated>1572004952333</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="二叉树的层次遍历 II">
+      <created>1573723350749</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1573723350749</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131110000" />
+    <option name="totallyTimeSpent" value="131745000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -1046,12 +1046,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2886266" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38626608" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38548386" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2602118" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38653556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1093,11 +1093,11 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38626608" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2886266" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2886266" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38548386" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26066098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38653556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
@@ -1253,13 +1253,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/IntegerOverturn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1330">
-          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="77" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -1550,6 +1543,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1565,6 +1559,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="434">
           <caret line="82" column="5" lean-forward="true" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1607,6 +1602,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="89" column="65" lean-forward="false" selection-start-line="89" selection-start-column="65" selection-end-line="89" selection-end-column="65" />
+          <folding>
+            <element signature="e#921#937#0" expanded="false" />
+            <element signature="e#1843#1859#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1614,6 +1613,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="87" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/BinaryTreeMinDepth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="49" column="58" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="49" selection-end-column="58" />
           <folding />
         </state>
       </provider>
