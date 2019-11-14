@@ -50,6 +50,5 @@ public class MergeSortList {
         int[] nums2 = new int[]{1,2,3};
         int n = 3;
         merge(nums1,m,nums2,n);
-        Arrays.stream(nums1).forEach(System.out::println);
     }
 }

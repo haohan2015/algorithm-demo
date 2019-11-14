@@ -33,7 +33,7 @@ C 可以放在 D (500) 和 M (1000) 的左边，来表示 400 和 900。
 public class Solution {
 
     public static int romanToInt(String s) {
-        Map<String,Integer> romanMap = new HashMap<>(16);
+        Map<String,Integer> romanMap = new HashMap<String,Integer>(16);
         romanMap.put("I",1);
         romanMap.put("a",4);
         romanMap.put("V",5);
@@ -63,7 +63,7 @@ public class Solution {
     }
 
     public static int romanToInt1(String s) {
-        Map<String,Integer> romanMap = new HashMap<>(16);
+        Map<String,Integer> romanMap = new HashMap<String,Integer>(16);
         romanMap.put("I",1);
         romanMap.put("V",5);
         romanMap.put("X",10);
@@ -87,7 +87,7 @@ public class Solution {
     }
 
     public static int romanToInt2(String s) {
-        Map<String,Integer> romanMap = new HashMap<>(16);
+        Map<String,Integer> romanMap = new HashMap<String,Integer>(16);
         romanMap.put("I",1);
         romanMap.put("V",5);
         romanMap.put("X",10);

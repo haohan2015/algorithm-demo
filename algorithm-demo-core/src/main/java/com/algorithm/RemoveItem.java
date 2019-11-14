@@ -70,6 +70,5 @@ public class RemoveItem {
     public static void main(String[] args) {
         int[] nums = new int[]{0,1,2,2,3,0,4,2};
         System.out.println("args = [" + removeElement(nums,2) + "]");
-        Arrays.asList(nums).forEach(System.out::println);
     }
 }

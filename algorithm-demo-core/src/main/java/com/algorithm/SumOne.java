@@ -62,7 +62,6 @@ public class SumOne {
 
     public static void main(String[] args) {
         int[] digits = new int[]{9};
-        Arrays.stream(plusOne(digits)).forEach(i-> System.out.println("args = [" + i + "]"));
     }
 
 }

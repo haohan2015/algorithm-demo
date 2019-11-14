@@ -80,7 +80,6 @@ public class TwoNumSum {
 
         System.out.println("args = [" + Integer.toBinaryString(3) + "]");
         System.out.println("args = [" + Integer.toBinaryString(-3) + "]");
-        System.out.println(0b011);
     }
 
 }
