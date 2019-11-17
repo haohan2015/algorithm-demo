@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f306098-1206-45ec-8bd5-627fda41d2a5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/AppearOneInteger.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -793,7 +792,7 @@
       <workItem from="1573124679918" duration="3610000" />
       <workItem from="1573723313518" duration="8984000" />
       <workItem from="1573805321388" duration="8598000" />
-      <workItem from="1573970833409" duration="2211000" />
+      <workItem from="1573970833409" duration="2241000" />
     </task>
     <task id="LOCAL-00001" summary="两数之和">
       <created>1565079953162</created>
@@ -991,11 +990,18 @@
       <option name="project" value="LOCAL" />
       <updated>1573810313899</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="只出现一次的数字">
+      <created>1573973116015</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1573973116015</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150881000" />
+    <option name="totallyTimeSpent" value="150911000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1378" height="745" extended-state="0" />
@@ -1085,7 +1091,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="整数反转" />
     <MESSAGE value="回文数" />
     <MESSAGE value="罗马数字转整数" />
     <MESSAGE value="判断字符串是否有效" />
@@ -1110,7 +1115,8 @@
     <MESSAGE value="路径之和" />
     <MESSAGE value="杨辉三角" />
     <MESSAGE value="买卖股票的最佳时机" />
-    <option name="LAST_COMMIT_MESSAGE" value="买卖股票的最佳时机" />
+    <MESSAGE value="只出现一次的数字" />
+    <option name="LAST_COMMIT_MESSAGE" value="只出现一次的数字" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
