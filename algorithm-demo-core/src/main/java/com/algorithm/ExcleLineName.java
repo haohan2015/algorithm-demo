@@ -36,5 +36,20 @@ package com.algorithm;
  */
 public class ExcleLineName {
 
+    public static String convertToTitle(int n) {
+        String[] strings = new String[]{"","A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"};
+        String  str = "";
+        while (n > 26){
+            int i = n % 26 !=0?n % 26:26;
+            n = (n -i) / 26;
+            str = strings[i] + str;
+        }
+
+        return strings[n] + str;
+    }
+
+    public static void main(String[] args) {
+        System.out.println("args = [" + convertToTitle(703) + "]");
+    }
 
 }
