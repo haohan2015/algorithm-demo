@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f306098-1206-45ec-8bd5-627fda41d2a5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/ReversalBinary.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -880,7 +879,7 @@
       <workItem from="1574251311515" duration="3729000" />
       <workItem from="1574329802883" duration="10947000" />
       <workItem from="1574424774550" duration="2838000" />
-      <workItem from="1574493698300" duration="1481000" />
+      <workItem from="1574493698300" duration="1515000" />
     </task>
     <task id="LOCAL-00001" summary="两数之和">
       <created>1565079953162</created>
@@ -1127,11 +1126,18 @@
       <option name="project" value="LOCAL" />
       <updated>1574424830558</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="颠倒二进制位">
+      <created>1574495479333</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1574495479333</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177116000" />
+    <option name="totallyTimeSpent" value="177150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1370" height="745" extended-state="0" />
@@ -1221,7 +1227,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="寻找插入位置" />
     <MESSAGE value="报数" />
     <MESSAGE value="最大子序和" />
     <MESSAGE value="最后一个单词的长度" />
@@ -1246,7 +1251,8 @@
     <MESSAGE value="求众数" />
     <MESSAGE value="Excel表列序号" />
     <MESSAGE value="阶乘后的零" />
-    <option name="LAST_COMMIT_MESSAGE" value="阶乘后的零" />
+    <MESSAGE value="颠倒二进制位" />
+    <option name="LAST_COMMIT_MESSAGE" value="颠倒二进制位" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
