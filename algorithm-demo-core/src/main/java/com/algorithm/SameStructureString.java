@@ -73,7 +73,20 @@ public class SameStructureString {
         return true;
     }
 
+    //判断相同位置的字符在各自的字符串中第一次出现的位置是否相同
+    public static boolean isIsomorphic1(String s, String t) {
+        char[] ch1 = s.toCharArray();
+        char[] ch2 = t.toCharArray();
+        int len = s.length();
+        for (int i = 0; i < len; i++) {
+            if(s.indexOf(ch1[i]) != t.indexOf(ch2[i])){
+                return false;
+            }
+        }
+        return true;
+    }
+
     public static void main(String[] args) {
-        System.out.println("args = [" + isIsomorphic("egg","add") + "]");
+        System.out.println("args = [" + isIsomorphic1("egg","add") + "]");
     }
 }
