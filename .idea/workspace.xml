@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f306098-1206-45ec-8bd5-627fda41d2a5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/StrobogrammaticNumber.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/StrobogrammaticNumber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="20" />
+              <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="20" />
               <folding>
                 <element signature="e#1100#1101#0" expanded="true" />
                 <element signature="e#1179#1180#0" expanded="true" />
@@ -913,14 +912,7 @@
       <workItem from="1574943065650" duration="4454000" />
       <workItem from="1575019305937" duration="6671000" />
       <workItem from="1575189841130" duration="642000" />
-      <workItem from="1575284145478" duration="18911000" />
-    </task>
-    <task id="LOCAL-00004" summary="罗马数字转整数">
-      <created>1565871657216</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1565871657218</updated>
+      <workItem from="1575284145478" duration="19101000" />
     </task>
     <task id="LOCAL-00005" summary="罗马数字转整数">
       <created>1566182235287</created>
@@ -1258,11 +1250,18 @@
       <option name="project" value="LOCAL" />
       <updated>1575550738246</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="对称数">
+      <created>1575552427914</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1575552427914</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="226345000" />
+    <option name="totallyTimeSpent" value="226535000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1380" height="745" extended-state="0" />
@@ -1352,7 +1351,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="杨辉三角" />
     <MESSAGE value="杨辉三角Pro" />
     <MESSAGE value="环形列表" />
     <MESSAGE value="相交链表" />
@@ -1377,7 +1375,8 @@
     <MESSAGE value="二叉搜索树的最近公共祖先" />
     <MESSAGE value="删除链表中的节点" />
     <MESSAGE value="最短单词距离" />
-    <option name="LAST_COMMIT_MESSAGE" value="最短单词距离" />
+    <MESSAGE value="对称数" />
+    <option name="LAST_COMMIT_MESSAGE" value="对称数" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1995,7 +1994,7 @@
     <entry file="file://$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/StrobogrammaticNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="20" />
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="20" />
           <folding>
             <element signature="e#1100#1101#0" expanded="true" />
             <element signature="e#1179#1180#0" expanded="true" />
