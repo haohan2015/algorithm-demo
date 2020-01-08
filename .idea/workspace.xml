@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f306098-1206-45ec-8bd5-627fda41d2a5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/DecodeMethod.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/DifferentPath.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,38 +21,15 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LongestPalindrome.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/LongestPalindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="23" />
-              <folding>
-                <element signature="e#1899#1900#0" expanded="true" />
-                <element signature="e#1979#1980#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DecodeMethod.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/DecodeMethod.java">
+      <file leaf-file-name="DifferentPath.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/DifferentPath.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
               <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="21" />
               <folding>
-                <element signature="e#1472#1473#0" expanded="true" />
-                <element signature="e#1546#1547#0" expanded="true" />
+                <element signature="e#1215#1216#0" expanded="true" />
+                <element signature="e#1286#1287#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/programFiles/Java/jdk1.8.0_161/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="1959" column="0" lean-forward="false" selection-start-line="1959" selection-start-column="0" selection-end-line="1959" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -79,6 +56,7 @@
       <list>
         <option value="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/LongestPalindrome.java" />
         <option value="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/DecodeMethod.java" />
+        <option value="$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/DifferentPath.java" />
       </list>
     </option>
   </component>
@@ -100,7 +78,6 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
@@ -254,27 +231,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DecodeMethod">
-    <configuration default="false" name="OvertrunVowelString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.OvertrunVowelString" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="algorithm-demo-core" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.DifferentPath">
     <configuration default="false" name="OverturnString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
@@ -343,6 +300,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.algorithm.DecodeMethod" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm-demo-core" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DifferentPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.DifferentPath" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -736,19 +713,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.OvertrunVowelString" />
-      <item index="1" class="java.lang.String" itemvalue="Application.OverturnString" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PaintFence" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LongestPalindrome" />
-      <item index="4" class="java.lang.String" itemvalue="Application.DecodeMethod" />
+      <item index="0" class="java.lang.String" itemvalue="Application.OverturnString" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PaintFence" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LongestPalindrome" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DecodeMethod" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DifferentPath" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.DecodeMethod" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LongestPalindrome" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PaintFence" />
-        <item index="3" class="java.lang.String" itemvalue="Application.OverturnString" />
-        <item index="4" class="java.lang.String" itemvalue="Application.OvertrunVowelString" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DifferentPath" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DecodeMethod" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LongestPalindrome" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PaintFence" />
+        <item index="4" class="java.lang.String" itemvalue="Application.OverturnString" />
       </list>
     </recent_temporary>
   </component>
@@ -830,14 +807,7 @@
       <workItem from="1577183676459" duration="8045000" />
       <workItem from="1577364412399" duration="2006000" />
       <workItem from="1577369484075" duration="1794000" />
-      <workItem from="1578312240023" duration="8769000" />
-    </task>
-    <task id="LOCAL-00028" summary="杨辉三角Pro">
-      <created>1574070724880</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1574070724880</updated>
+      <workItem from="1578312240023" duration="11598000" />
     </task>
     <task id="LOCAL-00029" summary="环形列表">
       <created>1574073563385</created>
@@ -1175,14 +1145,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578318068148</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="解码方法">
+      <created>1578404782324</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1578404782324</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8769000" />
+    <option name="totallyTimeSpent" value="11598000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
+    <frame x="-8" y="0" width="1382" height="754" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1194,7 +1171,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23548387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23548387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1206,7 +1183,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30645162" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2483871" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1230,7 +1207,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30645162" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2483871" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1263,7 +1240,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="删除链表中的节点" />
     <MESSAGE value="最短单词距离" />
     <MESSAGE value="对称数" />
     <MESSAGE value="会议室" />
@@ -1288,7 +1264,8 @@
     <MESSAGE value="反转字符串中的元音字母" />
     <MESSAGE value="从数据流中移动平均值" />
     <MESSAGE value="最长回文子串" />
-    <option name="LAST_COMMIT_MESSAGE" value="最长回文子串" />
+    <MESSAGE value="解码方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="解码方法" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="28" key="#Project_Structure" timestamp="1577365320714">
@@ -1587,8 +1564,14 @@
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/DifferentPath.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1618,11 +1601,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/DecodeMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="21" />
+        <state relative-caret-position="228">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
           <folding>
             <element signature="e#1472#1473#0" expanded="true" />
             <element signature="e#1546#1547#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/DifferentPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="e#1215#1216#0" expanded="true" />
+            <element signature="e#1286#1287#0" expanded="true" />
           </folding>
         </state>
       </provider>
