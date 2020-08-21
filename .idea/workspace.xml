@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f306098-1206-45ec-8bd5-627fda41d2a5" name="Default" comment="">
+    <list default="true" id="0f306098-1206-45ec-8bd5-627fda41d2a5" name="Default" comment="2020年8月21日14:16:22">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.ArrayDegree">
+  <component name="RunManager" selected="Application.Line">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -113,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoinChange2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.CoinChange2" />
+    <configuration name="Line" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.Line" />
       <module name="algorithm-demo-core" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -284,19 +284,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.CoinChange2" />
       <item itemvalue="Application.ZeroN" />
       <item itemvalue="Application.MaxLongList" />
       <item itemvalue="Application.MaxMean" />
       <item itemvalue="Application.ArrayDegree" />
+      <item itemvalue="Application.Line" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Line" />
         <item itemvalue="Application.ArrayDegree" />
         <item itemvalue="Application.MaxMean" />
         <item itemvalue="Application.MaxLongList" />
         <item itemvalue="Application.ZeroN" />
-        <item itemvalue="Application.CoinChange2" />
       </list>
     </recent_temporary>
   </component>
@@ -396,14 +396,7 @@
       <workItem from="1596421187581" duration="77000" />
       <workItem from="1596421291602" duration="64000" />
       <workItem from="1597916699056" duration="6963000" />
-      <workItem from="1597973479507" duration="570000" />
-    </task>
-    <task id="LOCAL-00037" summary="打家劫舍">
-      <created>1574773442556</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1574773442556</updated>
+      <workItem from="1597973479507" duration="10071000" />
     </task>
     <task id="LOCAL-00038" summary="计数质数">
       <created>1574859544248</created>
@@ -741,7 +734,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593312293854</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="2020年8月21日14:16:22">
+      <created>1597990594680</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1597990594681</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -758,7 +758,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="回文全排列" />
     <MESSAGE value="缺失数字" />
     <MESSAGE value="最近的二分搜索树的值" />
     <MESSAGE value="第一个错误的版本" />
@@ -783,41 +782,59 @@
     <MESSAGE value="统计「优美子数组」" />
     <MESSAGE value="硬币找零" />
     <MESSAGE value="硬币找零之二" />
-    <option name="LAST_COMMIT_MESSAGE" value="硬币找零之二" />
+    <MESSAGE value="2020年8月21日14:16:22" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年8月21日14:16:22" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="53" key="GridCell.Tab.0.bottom" timestamp="1597921870417">
+    <state x="1803" y="-311" key="CommitChangelistDialog2" timestamp="1598008012554">
+      <screen x="1366" y="-311" width="1920" height="1050" />
+    </state>
+    <state x="311" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1597990592546" />
+    <state x="1803" y="-311" key="CommitChangelistDialog2/0.0.1366.738/1366.-311.1920.1050@1366.-311.1920.1050" timestamp="1598008012554" />
+    <state width="1877" height="182" key="GridCell.Tab.0.bottom" timestamp="1598008001913">
+      <screen x="1366" y="-311" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="336" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598000341180" />
+    <state width="1877" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-311.1920.1050@1366.-311.1920.1050" timestamp="1598008001913" />
+    <state width="1877" height="182" key="GridCell.Tab.0.center" timestamp="1598008001913">
+      <screen x="1366" y="-311" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="336" key="GridCell.Tab.0.center/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598000341179" />
+    <state width="1877" height="182" key="GridCell.Tab.0.center/0.0.1366.738/1366.-311.1920.1050@1366.-311.1920.1050" timestamp="1598008001913" />
+    <state width="1877" height="182" key="GridCell.Tab.0.left" timestamp="1598008001912">
+      <screen x="1366" y="-311" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="336" key="GridCell.Tab.0.left/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598000341179" />
+    <state width="1877" height="182" key="GridCell.Tab.0.left/0.0.1366.738/1366.-311.1920.1050@1366.-311.1920.1050" timestamp="1598008001912" />
+    <state width="1877" height="182" key="GridCell.Tab.0.right" timestamp="1598008001913">
+      <screen x="1366" y="-311" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="336" key="GridCell.Tab.0.right/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598000341180" />
+    <state width="1877" height="182" key="GridCell.Tab.0.right/0.0.1366.738/1366.-311.1920.1050@1366.-311.1920.1050" timestamp="1598008001913" />
+    <state width="1877" height="274" key="GridCell.Tab.1.bottom" timestamp="1598007708734">
+      <screen x="1366" y="-311" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="336" key="GridCell.Tab.1.bottom/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598000341883" />
+    <state width="1877" height="274" key="GridCell.Tab.1.bottom/0.0.1366.738/1366.-311.1920.1050@1366.-311.1920.1050" timestamp="1598007708734" />
+    <state width="1877" height="274" key="GridCell.Tab.1.center" timestamp="1598007708733">
+      <screen x="1366" y="-311" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="336" key="GridCell.Tab.1.center/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598000341883" />
+    <state width="1877" height="274" key="GridCell.Tab.1.center/0.0.1366.738/1366.-311.1920.1050@1366.-311.1920.1050" timestamp="1598007708733" />
+    <state width="1877" height="274" key="GridCell.Tab.1.left" timestamp="1598007708733">
+      <screen x="1366" y="-311" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="336" key="GridCell.Tab.1.left/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598000341883" />
+    <state width="1877" height="274" key="GridCell.Tab.1.left/0.0.1366.738/1366.-311.1920.1050@1366.-311.1920.1050" timestamp="1598007708733" />
+    <state width="1877" height="274" key="GridCell.Tab.1.right" timestamp="1598007708734">
+      <screen x="1366" y="-311" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="336" key="GridCell.Tab.1.right/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598000341883" />
+    <state width="1877" height="274" key="GridCell.Tab.1.right/0.0.1366.738/1366.-311.1920.1050@1366.-311.1920.1050" timestamp="1598007708734" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1597990634539">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="53" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1597921870417" />
-    <state width="1323" height="53" key="GridCell.Tab.0.center" timestamp="1597921870417">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="53" key="GridCell.Tab.0.center/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1597921870417" />
-    <state width="1323" height="53" key="GridCell.Tab.0.left" timestamp="1597921870417">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="53" key="GridCell.Tab.0.left/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1597921870417" />
-    <state width="1323" height="53" key="GridCell.Tab.0.right" timestamp="1597921870417">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="53" key="GridCell.Tab.0.right/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1597921870417" />
-    <state width="1323" height="336" key="GridCell.Tab.1.bottom" timestamp="1597921661750">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="336" key="GridCell.Tab.1.bottom/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1597921661750" />
-    <state width="1323" height="336" key="GridCell.Tab.1.center" timestamp="1597921661750">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="336" key="GridCell.Tab.1.center/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1597921661750" />
-    <state width="1323" height="336" key="GridCell.Tab.1.left" timestamp="1597921661750">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="336" key="GridCell.Tab.1.left/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1597921661750" />
-    <state width="1323" height="336" key="GridCell.Tab.1.right" timestamp="1597921661750">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1323" height="336" key="GridCell.Tab.1.right/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1597921661750" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1597990634539" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1086,6 +1103,11 @@
           <url>file://$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/ArrayDegree.java</url>
           <line>42</line>
           <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/Line.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="76" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
