@@ -399,6 +399,7 @@
       <workItem from="1597973479507" duration="10071000" />
       <workItem from="1598233277640" duration="15167000" />
       <workItem from="1598426606991" duration="3730000" />
+      <workItem from="1598434564513" duration="3567000" />
     </task>
     <task id="LOCAL-00040" summary="同构字符串">
       <created>1574947757707</created>
@@ -788,10 +789,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="2020年8月24日19:37:00" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="311" y="0" key="CommitChangelistDialog2" timestamp="1598434068213">
+    <state x="311" y="0" key="CommitChangelistDialog2" timestamp="1598434092752">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="311" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598434068213" />
+    <state x="311" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598434092752" />
     <state x="1803" y="-311" key="CommitChangelistDialog2/0.0.1366.738/1366.-311.1920.1050@1366.-311.1920.1050" timestamp="1598234663903" />
     <state width="1323" height="119" key="GridCell.Tab.0.bottom" timestamp="1598434011670">
       <screen x="0" y="0" width="1366" height="738" />
@@ -833,10 +834,10 @@
     </state>
     <state width="1323" height="212" key="GridCell.Tab.1.right/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598433982507" />
     <state width="1877" height="274" key="GridCell.Tab.1.right/0.0.1366.738/1366.-311.1920.1050@1366.-311.1920.1050" timestamp="1598007708734" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1598269033486">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1598434101330">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598269033486" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598434101330" />
     <state x="1753" y="-166" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.-311.1920.1050@1366.-311.1920.1050" timestamp="1598234675318" />
   </component>
   <component name="XDebuggerManager">
