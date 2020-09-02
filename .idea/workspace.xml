@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f306098-1206-45ec-8bd5-627fda41d2a5" name="Default" comment="2020年8月26日20:06:05">
+    <list default="true" id="0f306098-1206-45ec-8bd5-627fda41d2a5" name="Default" comment="2020年8月27日18:02:38">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,15 +20,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>&quot;</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-      <replace>'</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,7 +54,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.ThreeStep">
+  <component name="RunManager" selected="Application.Finder">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -99,8 +90,8 @@
       <module />
       <method />
     </configuration>
-    <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.ArraySum" />
+    <configuration name="Finder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.Finder" />
       <module name="algorithm-demo-core" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -127,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumEquivDominoPairsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.NumEquivDominoPairsDemo" />
+    <configuration name="OneAndZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.OneAndZero" />
       <module name="algorithm-demo-core" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -284,19 +275,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.NumEquivDominoPairsDemo" />
-      <item itemvalue="Application.ArraySum" />
       <item itemvalue="Application.massagist" />
       <item itemvalue="Application.MinSpendStairs" />
       <item itemvalue="Application.ThreeStep" />
+      <item itemvalue="Application.OneAndZero" />
+      <item itemvalue="Application.Finder" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Finder" />
+        <item itemvalue="Application.OneAndZero" />
         <item itemvalue="Application.ThreeStep" />
         <item itemvalue="Application.MinSpendStairs" />
         <item itemvalue="Application.massagist" />
-        <item itemvalue="Application.ArraySum" />
-        <item itemvalue="Application.NumEquivDominoPairsDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -400,14 +391,10 @@
       <workItem from="1598233277640" duration="15167000" />
       <workItem from="1598426606991" duration="3730000" />
       <workItem from="1598434564513" duration="4890000" />
-      <workItem from="1598492289624" duration="5448000" />
-    </task>
-    <task id="LOCAL-00041" summary="反转链表">
-      <created>1575025828957</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1575025828957</updated>
+      <workItem from="1598492289624" duration="11188000" />
+      <workItem from="1598608194693" duration="573000" />
+      <workItem from="1598837224552" duration="2765000" />
+      <workItem from="1599010587945" duration="15774000" />
     </task>
     <task id="LOCAL-00042" summary="存在重复元素">
       <created>1575030747260</created>
@@ -745,7 +732,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598443572089</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="2020年8月27日18:02:38">
+      <created>1598522569962</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1598522569962</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -761,8 +755,43 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="移动零" />
     <MESSAGE value="单词规律" />
     <MESSAGE value="Nim游戏" />
     <MESSAGE value="Flip Game 翻转游戏" />
@@ -787,59 +816,76 @@
     <MESSAGE value="2020年8月24日10:04:18" />
     <MESSAGE value="2020年8月24日19:37:00" />
     <MESSAGE value="2020年8月26日20:06:05" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年8月26日20:06:05" />
+    <MESSAGE value="2020年8月27日18:02:38" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年8月27日18:02:38" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="311" y="0" key="CommitChangelistDialog2" timestamp="1598443569873">
+    <state x="311" y="0" key="CommitChangelistDialog2" timestamp="1598522567532">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="311" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598443569873" />
+    <state x="311" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598522567532" />
     <state x="1803" y="-311" key="CommitChangelistDialog2/0.0.1366.738/1366.-311.1920.1050@1366.-311.1920.1050" timestamp="1598234663903" />
-    <state width="1323" height="62" key="GridCell.Tab.0.bottom" timestamp="1598522468219">
+    <state width="1323" height="222" key="GridCell.Tab.0.bottom" timestamp="1599046344067">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="62" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598522468219" />
+    <state width="1323" height="222" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1599046344067" />
     <state width="1877" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-311.1920.1050@1366.-311.1920.1050" timestamp="1598266196602" />
-    <state width="1323" height="62" key="GridCell.Tab.0.center" timestamp="1598522468219">
+    <state width="1323" height="212" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1598961456457" />
+    <state width="1323" height="222" key="GridCell.Tab.0.center" timestamp="1599046344067">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="62" key="GridCell.Tab.0.center/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598522468219" />
+    <state width="1323" height="222" key="GridCell.Tab.0.center/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1599046344067" />
     <state width="1877" height="182" key="GridCell.Tab.0.center/0.0.1366.738/1366.-311.1920.1050@1366.-311.1920.1050" timestamp="1598266196602" />
-    <state width="1323" height="62" key="GridCell.Tab.0.left" timestamp="1598522468219">
+    <state width="1323" height="212" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1598961456456" />
+    <state width="1323" height="222" key="GridCell.Tab.0.left" timestamp="1599046344067">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="62" key="GridCell.Tab.0.left/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598522468219" />
+    <state width="1323" height="222" key="GridCell.Tab.0.left/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1599046344067" />
     <state width="1877" height="182" key="GridCell.Tab.0.left/0.0.1366.738/1366.-311.1920.1050@1366.-311.1920.1050" timestamp="1598266196601" />
-    <state width="1323" height="62" key="GridCell.Tab.0.right" timestamp="1598522468219">
+    <state width="1323" height="212" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1598961456456" />
+    <state width="1323" height="222" key="GridCell.Tab.0.right" timestamp="1599046344067">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="62" key="GridCell.Tab.0.right/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598522468219" />
+    <state width="1323" height="222" key="GridCell.Tab.0.right/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1599046344067" />
     <state width="1877" height="182" key="GridCell.Tab.0.right/0.0.1366.738/1366.-311.1920.1050@1366.-311.1920.1050" timestamp="1598266196602" />
-    <state width="1323" height="212" key="GridCell.Tab.1.bottom" timestamp="1598520605809">
+    <state width="1323" height="212" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1598961456456" />
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1599046344067">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="212" key="GridCell.Tab.1.bottom/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598520605809" />
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1599046344067" />
     <state width="1877" height="274" key="GridCell.Tab.1.bottom/0.0.1366.738/1366.-311.1920.1050@1366.-311.1920.1050" timestamp="1598007708734" />
-    <state width="1323" height="212" key="GridCell.Tab.1.center" timestamp="1598520605809">
+    <state width="1323" height="212" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1598961457148" />
+    <state width="1323" height="222" key="GridCell.Tab.1.center" timestamp="1599046344067">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="212" key="GridCell.Tab.1.center/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598520605809" />
+    <state width="1323" height="222" key="GridCell.Tab.1.center/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1599046344067" />
     <state width="1877" height="274" key="GridCell.Tab.1.center/0.0.1366.738/1366.-311.1920.1050@1366.-311.1920.1050" timestamp="1598007708733" />
-    <state width="1323" height="212" key="GridCell.Tab.1.left" timestamp="1598520605809">
+    <state width="1323" height="212" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1598961457147" />
+    <state width="1323" height="222" key="GridCell.Tab.1.left" timestamp="1599046344067">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="212" key="GridCell.Tab.1.left/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598520605809" />
+    <state width="1323" height="222" key="GridCell.Tab.1.left/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1599046344067" />
     <state width="1877" height="274" key="GridCell.Tab.1.left/0.0.1366.738/1366.-311.1920.1050@1366.-311.1920.1050" timestamp="1598007708733" />
-    <state width="1323" height="212" key="GridCell.Tab.1.right" timestamp="1598520605809">
+    <state width="1323" height="212" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1598961457147" />
+    <state width="1323" height="222" key="GridCell.Tab.1.right" timestamp="1599046344067">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="212" key="GridCell.Tab.1.right/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598520605809" />
+    <state width="1323" height="222" key="GridCell.Tab.1.right/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1599046344067" />
     <state width="1877" height="274" key="GridCell.Tab.1.right/0.0.1366.738/1366.-311.1920.1050@1366.-311.1920.1050" timestamp="1598007708734" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1598443579075">
+    <state width="1323" height="212" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1598961457148" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1598522575023">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598443579075" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1598522575023" />
     <state x="1753" y="-166" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.-311.1920.1050@1366.-311.1920.1050" timestamp="1598234675318" />
+    <state x="359" y="100" width="647" height="538" key="find.popup" timestamp="1599029085726">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="359" y="100" width="647" height="538" key="find.popup/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1599029085726" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1599031435901">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/1366.-311.1920.1050@0.0.1366.738" timestamp="1599031435901" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1143,6 +1189,26 @@
           <url>file://$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/MinSpendStairs.java</url>
           <line>38</line>
           <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/Finder.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/Finder.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/Finder.java</url>
+          <line>166</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm-demo-core/src/main/java/com/algorithm/Finder.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="98" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
